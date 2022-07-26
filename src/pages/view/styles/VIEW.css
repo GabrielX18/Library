@@ -1,0 +1,14 @@
+.viewBook_content{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.book_details{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding-top:80px;
+    row-gap: 10px;
+}

@@ -1,0 +1,16 @@
+.home_content{
+  max-width: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); 
+  justify-items: center; 
+  color: #fff;
+}
+
+.book_content{
+    max-width: 55%;
+}
+
+.book_content-img{
+    max-width: 100%;
+}

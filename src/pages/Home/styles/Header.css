@@ -1,0 +1,20 @@
+.header_content{
+    max-width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #181a26;
+    margin-bottom: 15px;
+}
+
+
+.Link{
+    font-size: 15px;
+    color: #fff;
+}
+
+.activeLink{
+    font-weight: bold;
+    font-size: 18px;
+    color: red;
+}

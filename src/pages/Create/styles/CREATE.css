@@ -1,0 +1,31 @@
+.create_content{
+    max-width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_content{
+    width: 28%;
+    min-height:20vh;
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form_content>input{
+    padding: 8px;
+    outline: none;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    width: 40%;
+    padding: 10px;
+    color: #fff;
+    background-color: #1b9f39;
+    font-weight: bold;
+}
